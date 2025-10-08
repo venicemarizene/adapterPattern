@@ -22,4 +22,4 @@ You are developing an application that helps users manage and control various el
    </ul>
 
 # UML Class Diagram
-![UML Class Diagram](adapterPattern.png)
+![UML Class Diagram](AdapterPattern.png)
